@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **nukman.mukrami3@gmail.com**
 
-- 📄 Know about my experiences [https://nmukrami.github.io/NM](https://nmukrami.github.io/NM)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/nukmanmukrami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nukmanmukrami" height="30" width="40" /></a>
