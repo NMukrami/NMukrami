@@ -20,6 +20,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nmukrami&show_icons=true&locale=en&layout=compact" alt="nmukrami's top languages" style="margin-right: 20px;" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmukrami&" alt="nmukrami's streak stats" style="margin-left: 20px;" />
 </p>
