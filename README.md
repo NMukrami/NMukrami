@@ -1,5 +1,5 @@
 ![Header](./github-header.png)
-<h1 align="center">Hi 👋, I'm Nukman Mukramui</h1>
+<h1 align="center">Hi 👋, I'm Nukman Mukrami</h1>
 <h3 align="center">A passionate programmer from Malaysia</h3>
 
 - 🔭 I’m currently working on [My-Diary](https://github.com/NMukrami/My-Diary)
@@ -24,5 +24,3 @@
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmukrami&theme=highcontrast" alt="nmukrami" />
 </p>
-
-
