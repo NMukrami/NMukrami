@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nukman Mukrami</h1>
 <h3 align="center">A passionate programmer from Malaysia</h3>
 
-- 🔭 I’m currently working on [My-Diary](https://github.com/NMukrami/My-Diary)
-
-- 👨‍💻 All of my projects are available at [https://nmukrami.github.io/NM](https://nmukrami.github.io/NM)
+- 👨‍💻 I’m currently working on [My-Diary](https://github.com/NMukrami/My-Diary)
 
 - 📫 How to reach me **nukman.mukrami3@gmail.com**
 
