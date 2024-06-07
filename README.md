@@ -1,15 +1,22 @@
-![Header](./github-header.png)
-<h1 align="center">Hi 👋, I'm Nukman Mukrami</h1>
-<h3 align="center">A passionate programmer from Malaysia</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nukman Mukrami
+======================================================================================================================================
 
-- 👨‍💻 I’m currently working on [My-Diary](https://github.com/NMukrami/My-Diary)
+A passionate programmer
+-----------------------
 
-- 📫 How to reach me **nukman.mukrami3@gmail.com**
+love to learn new things
+
+* 🌍  I'm based in Malaysia
+* 🖥️  See my portfolio at [My personal website](http://nmukrami.github.io/NM/)
+* ✉️  You can contact me at [nukman.mukrami3@gmail.com](mailto:nukman.mukrami3@gmail.com)
+* 🚀  I'm currently working on [MyDiary](http://github.com/NMukrami/My-Diary)
+* 🧠  I'm learning Django
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/nukmanmukrami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nukmanmukrami" height="30" width="40" /></a>
 <a href="https://instagram.com/nukman.m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nukman.m_" height="30" width="40" /></a>
+  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
