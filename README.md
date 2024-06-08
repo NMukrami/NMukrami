@@ -7,7 +7,6 @@ A passionate programmer
 love to learn new things
 
 * 🌍  I'm based in Malaysia
-* 🖥️  See my portfolio at [My personal website](http://nmukrami.github.io/NM/)
 * ✉️  You can contact me at [nukman.mukrami3@gmail.com](mailto:nukman.mukrami3@gmail.com)
 * 🚀  I'm currently working on [MyDiary](http://github.com/NMukrami/My-Diary)
 * 🧠  I'm learning Django
