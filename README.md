@@ -9,7 +9,7 @@ love to learn new things
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [nukman.mukrami3@gmail.com](mailto:nukman.mukrami3@gmail.com)
 * 🚀  I'm currently working on [MyDiary](http://github.com/NMukrami/My-Diary) & [TriviaQuest](http://github.com/NMukrami/TriviaQuest)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Django, Flask, Design Patterns and Architecture
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
