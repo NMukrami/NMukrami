@@ -43,8 +43,8 @@ love to learn new things
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.svg" alt="android" width="40" height="40"/> </a> 
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmukrami&show_icons=true&theme=dark&locale=en&layout=compact" alt="nmukrami" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmukrami&show_icons=true&theme=dark&locale=en&layout=compact" alt="nmukrami" /> -->
+<!--   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmukrami&theme=dark" alt="nmukrami" />
 </p>
 
