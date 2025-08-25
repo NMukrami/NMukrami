@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nukman Mukrami
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
 A passionate programmer
@@ -6,9 +6,6 @@ A passionate programmer
 
 love to learn new things
 
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [nukman.mukrami3@gmail.com](mailto:nukman.mukrami3@gmail.com)
-* 🚀  I'm currently working on [MyDiary](http://github.com/NMukrami/My-Diary) & [TriviaQuest](http://github.com/NMukrami/TriviaQuest)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
